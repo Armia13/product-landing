@@ -33,6 +33,7 @@ nav {
 header {
   background-image: url("images/header-bg.jpg");
   width: 100%;
+  overflow: hidden;
 }
 .logo img {
   width: 40%;
